@@ -1,0 +1,958 @@
+Displ,Cyl,Drive,Class,MPG
+3.7,6,4WD,SUV,L
+3.5,6,2WD,midsize car,M
+3.7,6,4WD,midsize car,L
+2.4,4,2WD,small car,M
+2.4,4,2WD,small car,M
+2.4,4,2WD,small car,H
+3.5,6,2WD,small car,M
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+5.9,12,2WD,small car,L
+5.9,12,2WD,small car,L
+2.0,4,2WD,station wagon,M
+2.0,4,2WD,station wagon,M
+2.0,4,4WD,station wagon,M
+2.0,4,2WD,station wagon,M
+2.0,4,2WD,station wagon,M
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,M
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+4.2,8,4WD,midsize car,M
+4.2,8,4WD,midsize car,M
+4.2,8,4WD,large car,M
+6.3,12,4WD,large car,L
+2.0,4,4WD,SUV,M
+3.2,6,4WD,SUV,L
+3.2,6,4WD,SUV,L
+3.0,6,4WD,SUV,L
+3.0,6,4WD,SUV,L
+5.2,10,4WD,small car,L
+5.2,10,4WD,small car,L
+5.2,10,4WD,small car,L
+4.2,8,4WD,small car,L
+5.2,10,4WD,small car,L
+3.0,6,4WD,small car,M
+3.0,6,4WD,small car,M
+3.0,6,4WD,small car,M
+4.2,8,4WD,small car,L
+4.2,8,4WD,small car,L
+4.2,8,4WD,small car,L
+3.0,6,4WD,small car,L
+3.0,6,4WD,small car,L
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,H
+2.5,5,4WD,small car,L
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,L
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+2.0,4,2WD,small car,H
+3.0,6,4WD,small car,L
+3.0,6,4WD,small car,L
+3.0,6,4WD,small car,L
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,4WD,station wagon,L
+3.0,6,4WD,station wagon,L
+3.0,6,4WD,station wagon,L
+3.0,6,2WD,station wagon,L
+3.0,6,2WD,station wagon,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,H
+3.0,6,4WD,small car,M
+3.0,6,4WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,4WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,M
+3.0,6,2WD,small car,L
+3.0,6,2WD,small car,L
+3.0,6,2WD,midsize car,M
+3.0,6,4WD,midsize car,M
+3.0,6,2WD,midsize car,M
+3.0,6,4WD,large car,M
+3.0,6,4WD,large car,M
+3.0,6,2WD,large car,M
+4.4,8,4WD,midsize car,L
+4.4,8,2WD,midsize car,L
+4.4,8,2WD,midsize car,L
+4.4,8,4WD,large car,L
+4.4,8,4WD,large car,L
+4.4,8,2WD,large car,L
+4.4,8,2WD,large car,L
+3.0,6,2WD,small car,H
+3.0,6,2WD,small car,H
+3.0,6,2WD,small car,M
+4.4,8,2WD,small car,L
+4.4,8,2WD,small car,L
+4.4,8,4WD,small car,L
+4.4,8,4WD,small car,L
+4.4,8,2WD,small car,L
+3.0,6,2WD,large car,L
+3.0,6,2WD,large car,L
+4.4,8,4WD,large car,L
+4.4,8,2WD,large car,L
+4.4,8,4WD,large car,L
+4.4,8,2WD,large car,L
+3.0,6,2WD,midsize car,H
+3.0,6,2WD,midsize car,H
+4.4,8,2WD,midsize car,L
+4.4,8,2WD,large car,L
+4.4,8,4WD,large car,L
+4.4,8,2WD,large car,L
+4.4,8,2WD,large car,L
+4.0,8,2WD,small car,L
+4.0,8,2WD,small car,L
+4.0,8,2WD,small car,L
+4.4,8,2WD,small car,L
+3.0,6,4WD,SUV,M
+3.0,6,4WD,SUV,M
+3.0,6,4WD,SUV,M
+3.0,6,4WD,SUV,M
+3.0,6,4WD,SUV,L
+3.0,6,4WD,SUV,L
+4.4,8,4WD,SUV,L
+4.4,8,4WD,SUV,L
+4.4,8,4WD,SUV,L
+3.0,6,4WD,SUV,L
+4.4,8,4WD,SUV,L
+4.4,8,4WD,SUV,L
+4.4,8,4WD,SUV,L
+3.0,6,2WD,small car,L
+2.0,4,2WD,midsize car,M
+2.0,4,2WD,midsize car,M
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+3.6,6,2WD,midsize car,L
+3.6,6,2WD,midsize car,M
+3.6,6,2WD,midsize car,M
+6.2,8,2WD,midsize car,L
+6.2,8,2WD,midsize car,L
+6.2,8,2WD,midsize car,L
+3.6,6,4WD,station wagon,M
+3.6,6,2WD,station wagon,M
+3.6,6,2WD,station wagon,M
+6.2,8,2WD,station wagon,L
+6.2,8,2WD,station wagon,L
+6.2,8,2WD,station wagon,L
+6.0,8,4WD,SUV,M
+6.0,8,2WD,SUV,M
+6.2,8,2WD,small car,L
+6.2,8,2WD,small car,L
+6.2,8,2WD,small car,L
+6.2,8,2WD,small car,L
+2.9,4,4WD,pickup,L
+2.9,4,2WD,pickup,M
+2.9,4,4WD,pickup,L
+3.7,5,4WD,pickup,L
+3.7,5,4WD,pickup,L
+3.7,5,2WD,pickup,L
+5.3,8,4WD,pickup,L
+5.3,8,2WD,pickup,L
+6.2,8,2WD,small car,L
+6.2,8,2WD,small car,L
+1.4,4,2WD,midsize car,H
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+3.0,6,2WD,SUV,L
+4.3,6,2WD,van,L
+3.6,6,2WD,large car,M
+3.6,6,2WD,large car,M
+2.4,4,2WD,midsize car,H
+3.6,6,2WD,midsize car,L
+4.3,6,4WD,pickup,L
+4.3,6,2WD,pickup,L
+6.0,8,4WD,pickup,M
+6.0,8,2WD,pickup,M
+1.4,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.4,4,2WD,midsize car,H
+1.4,4,2WD,midsize car,H
+1.8,4,2WD,midsize car,H
+6.0,8,4WD,SUV,L
+3.6,6,2WD,SUV,L
+2.4,4,2WD,midsize car,M
+2.4,4,2WD,small car,M
+5.7,8,2WD,large car,L
+6.4,8,2WD,large car,L
+2.4,4,2WD,midsize car,M
+2.4,4,2WD,midsize car,M
+2.4,4,2WD,station wagon,M
+3.6,6,2WD,midsize car,M
+5.7,8,2WD,midsize car,L
+6.4,8,2WD,midsize car,L
+6.4,8,2WD,large car,L
+5.7,8,4WD,SUV,L
+5.7,8,2WD,SUV,L
+2.4,4,2WD,SUV,M
+3.6,6,4WD,SUV,L
+5.7,8,2WD,pickup,L
+4.5,8,2WD,small car,L
+4.5,8,2WD,small car,L
+4.5,8,2WD,small car,L
+4.3,8,2WD,small car,L
+4.3,8,2WD,small car,L
+6.3,12,4WD,midsize car,L
+6.3,12,4WD,midsize car,L
+6.3,12,4WD,midsize car,L
+1.4,4,2WD,small car,H
+1.4,4,2WD,small car,H
+1.4,4,2WD,small car,H
+1.4,4,2WD,small car,H
+1.4,4,2WD,small car,H
+6.8,10,2WD,van,L
+6.8,10,2WD,van,L
+3.5,6,4WD,SUV,M
+3.5,6,2WD,SUV,M
+3.5,6,2WD,SUV,M
+3.7,6,2WD,SUV,M
+2.5,4,2WD,SUV,H
+2.5,4,4WD,SUV,H
+2.5,4,4WD,SUV,H
+2.5,4,2WD,SUV,H
+2.5,4,2WD,SUV,H
+2.0,4,2WD,SUV,M
+3.5,6,4WD,SUV,L
+3.5,6,2WD,SUV,L
+3.5,6,4WD,pickup,L
+3.5,6,4WD,pickup,L
+6.2,8,4WD,pickup,L
+1.6,4,2WD,small car,H
+3.5,6,2WD,SUV,L
+3.5,6,2WD,SUV,L
+3.5,6,4WD,SUV,L
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,M
+2.5,4,2WD,midsize car,M
+3.5,6,4WD,midsize car,L
+3.5,6,4WD,midsize car,L
+3.5,6,2WD,midsize car,M
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+5.0,8,2WD,small car,L
+5.0,8,2WD,small car,L
+5.4,8,2WD,small car,L
+3.7,6,2WD,small car,M
+3.5,6,2WD,large car,M
+3.5,6,4WD,large car,L
+3.5,6,4WD,large car,L
+2.0,4,2WD,special purpose,M
+3.6,6,2WD,SUV,L
+2.9,4,4WD,pickup,L
+2.9,4,2WD,pickup,M
+2.9,4,2WD,pickup,M
+5.3,8,2WD,pickup,L
+4.3,6,2WD,van,L
+4.3,6,4WD,pickup,L
+4.3,6,2WD,pickup,L
+6.0,8,4WD,pickup,M
+6.0,8,2WD,pickup,M
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+3.0,6,4WD,SUV,L
+6.0,8,4WD,SUV,M
+6.0,8,4WD,SUV,M
+6.0,8,2WD,SUV,M
+2.4,4,2WD,small car,H
+2.4,4,2WD,large car,H
+2.4,4,2WD,large car,H
+2.4,4,2WD,small car,H
+2.4,4,2WD,large car,H
+2.4,4,2WD,small car,H
+3.5,6,2WD,large car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+2.4,4,4WD,SUV,H
+2.4,4,2WD,SUV,H
+2.4,4,2WD,SUV,H
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.5,4,2WD,small car,H
+2.4,4,2WD,SUV,M
+1.5,4,2WD,station wagon,H
+1.5,4,2WD,station wagon,H
+1.5,4,2WD,station wagon,H
+1.3,4,2WD,small car,H
+1.3,4,2WD,small car,H
+1.3,4,2WD,small car,H
+1.3,4,2WD,small car,H
+3.5,6,4WD,SUV,L
+3.5,6,2WD,SUV,M
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+3.3,6,2WD,large car,M
+1.8,4,2WD,midsize car,H
+1.8,4,2WD,midsize car,H
+1.8,4,2WD,midsize car,H
+1.8,4,2WD,midsize car,H
+2.0,4,2WD,station wagon,H
+2.0,4,2WD,station wagon,H
+2.0,4,2WD,station wagon,H
+5.0,8,2WD,large car,L
+5.0,8,2WD,large car,L
+4.6,8,2WD,large car,L
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,M
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+5.0,8,2WD,large car,L
+5.0,8,2WD,large car,L
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,M
+3.5,6,4WD,SUV,M
+2.0,4,2WD,large car,H
+2.0,4,2WD,large car,H
+2.4,4,2WD,large car,H
+2.4,4,2WD,large car,H
+2.4,4,2WD,large car,H
+2.0,4,2WD,SUV,H
+2.0,4,2WD,SUV,M
+2.0,4,2WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,M
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+3.8,6,4WD,SUV,L
+3.8,6,2WD,SUV,L
+3.8,6,2WD,SUV,L
+3.5,6,2WD,station wagon,L
+3.5,6,4WD,SUV,L
+3.5,6,4WD,SUV,L
+3.5,6,2WD,SUV,L
+3.5,6,2WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+2.5,6,2WD,midsize car,M
+2.5,6,4WD,midsize car,M
+3.7,6,2WD,small car,L
+3.7,6,2WD,small car,L
+3.7,6,2WD,small car,M
+3.7,6,2WD,small car,M
+3.7,6,4WD,small car,L
+3.7,6,4WD,midsize car,L
+3.7,6,4WD,midsize car,L
+3.7,6,2WD,midsize car,M
+3.7,6,4WD,midsize car,L
+5.6,8,4WD,midsize car,L
+5.6,8,2WD,SUV,L
+5.0,8,2WD,large car,L
+5.0,8,2WD,large car,L
+5.0,8,2WD,large car,L
+5.0,8,2WD,midsize car,L
+5.0,8,2WD,midsize car,L
+5.0,8,2WD,small car,L
+2.0,4,2WD,SUV,H
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+5.7,8,2WD,SUV,L
+6.4,8,4WD,SUV,L
+6.4,8,4WD,SUV,L
+3.7,6,4WD,SUV,L
+2.0,4,2WD,SUV,M
+2.0,4,2WD,SUV,H
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+3.6,6,4WD,SUV,L
+3.6,6,4WD,SUV,L
+3.6,6,4WD,SUV,L
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.4,4,2WD,small car,H
+2.4,4,2WD,small car,H
+2.0,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+2.4,4,2WD,midsize car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+2.4,4,4WD,SUV,M
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,M
+2.4,4,2WD,SUV,H
+2.4,4,2WD,SUV,M
+3.5,6,4WD,SUV,L
+3.5,6,2WD,SUV,M
+1.6,4,2WD,station wagon,H
+1.6,4,2WD,station wagon,H
+2.0,4,2WD,station wagon,H
+1.6,4,2WD,station wagon,H
+2.0,4,2WD,station wagon,H
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+2.4,4,2WD,SUV,H
+6.5,12,4WD,small car,L
+5.2,10,4WD,small car,L
+5.2,10,4WD,small car,L
+3.2,6,4WD,SUV,L
+3.2,6,4WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+2.0,4,4WD,SUV,M
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+5.0,8,4WD,SUV,L
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+3.5,6,2WD,midsize car,M
+2.4,4,2WD,small car,H
+2.4,4,2WD,small car,H
+2.5,6,2WD,small car,M
+2.5,6,2WD,small car,H
+3.5,6,4WD,small car,M
+5.0,8,2WD,small car,L
+4.8,10,2WD,small car,L
+4.6,8,4WD,midsize car,L
+4.6,8,2WD,midsize car,L
+4.6,8,4WD,midsize car,L
+4.6,8,2WD,midsize car,L
+5.0,8,4WD,midsize car,L
+3.5,6,2WD,SUV,M
+3.5,6,2WD,SUV,H
+3.5,6,4WD,large car,L
+3.5,6,2WD,large car,L
+3.7,6,4WD,large car,L
+3.5,6,4WD,SUV,L
+3.7,6,2WD,SUV,M
+3.7,6,2WD,SUV,M
+3.5,6,4WD,midsize car,L
+3.5,6,2WD,small car,L
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,large car,L
+4.7,8,2WD,large car,L
+2.0,4,2WD,small car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.5,4,2WD,small car,M
+2.5,4,2WD,small car,M
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,minivan,M
+2.5,4,2WD,minivan,M
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+2.3,4,2WD,SUV,L
+2.3,4,2WD,SUV,L
+2.5,4,2WD,SUV,M
+3.7,6,4WD,SUV,L
+3.7,6,2WD,SUV,L
+3.7,6,2WD,SUV,L
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,M
+2.3,4,2WD,midsize car,M
+2.3,4,2WD,midsize car,M
+3.5,6,4WD,small car,M
+3.5,6,4WD,small car,M
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+3.0,6,4WD,small car,L
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+6.2,8,2WD,small car,L
+4.7,8,4WD,small car,L
+5.5,12,2WD,small car,L
+5.5,12,2WD,small car,L
+6.0,12,2WD,small car,L
+6.0,12,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+4.7,8,4WD,small car,L
+3.5,6,2WD,small car,M
+3.5,6,2WD,midsize car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,midsize car,M
+3.5,6,4WD,midsize car,M
+3.5,6,4WD,midsize car,M
+3.5,6,4WD,small car,M
+3.5,6,4WD,small car,M
+3.5,6,4WD,small car,M
+3.5,6,4WD,station wagon,M
+3.0,6,2WD,midsize car,H
+4.7,8,2WD,small car,M
+4.7,8,2WD,small car,M
+4.7,8,4WD,midsize car,L
+4.7,8,2WD,small car,L
+4.7,8,2WD,small car,L
+5.5,8,2WD,midsize car,L
+5.5,8,2WD,midsize car,L
+5.5,8,4WD,SUV,L
+5.5,8,4WD,SUV,L
+3.0,6,4WD,SUV,L
+4.7,8,4WD,SUV,L
+5.5,8,4WD,SUV,L
+3.5,6,2WD,SUV,L
+3.5,6,4WD,SUV,L
+3.5,6,4WD,SUV,L
+3.5,6,4WD,SUV,L
+3.5,6,4WD,SUV,L
+3.0,6,4WD,SUV,M
+4.7,8,4WD,SUV,L
+5.5,8,4WD,SUV,L
+5.5,12,2WD,large car,L
+5.5,12,2WD,large car,L
+5.5,12,2WD,large car,L
+3.0,6,4WD,SUV,L
+3.0,6,4WD,large car,H
+4.7,8,2WD,large car,L
+5.5,12,2WD,large car,L
+5.5,8,2WD,large car,L
+5.5,8,2WD,large car,L
+6.0,12,2WD,large car,L
+6.0,12,2WD,large car,L
+5.5,8,2WD,small car,L
+6.2,8,2WD,small car,L
+1.8,4,2WD,small car,H
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+5.5,8,2WD,small car,M
+5.5,8,2WD,small car,M
+6.2,8,2WD,small car,L
+6.2,8,2WD,small car,L
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,4WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,4WD,small car,H
+1.6,4,4WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+1.6,4,2WD,small car,H
+2.4,4,2WD,small car,M
+3.8,6,2WD,small car,L
+2.4,4,2WD,small car,M
+3.8,6,2WD,small car,L
+2.4,4,2WD,midsize car,M
+2.0,4,4WD,small car,L
+2.0,4,2WD,small car,H
+2.4,4,4WD,small car,H
+2.4,4,4WD,small car,H
+2.4,4,2WD,small car,H
+2.0,4,4WD,small car,L
+2.0,4,4WD,small car,L
+2.0,4,4WD,small car,L
+2.0,4,2WD,station wagon,H
+2.4,4,4WD,SUV,M
+2.4,4,2WD,SUV,H
+2.4,4,2WD,SUV,H
+2.4,4,2WD,SUV,H
+3.0,6,4WD,SUV,M
+3.0,6,2WD,SUV,M
+2.0,4,4WD,SUV,H
+2.0,4,2WD,SUV,H
+2.0,4,2WD,SUV,H
+3.8,8,2WD,small car,L
+3.7,6,2WD,small car,M
+3.7,6,2WD,small car,L
+3.7,6,2WD,small car,L
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+3.5,6,2WD,midsize car,M
+3.5,6,2WD,midsize car,M
+3.5,6,2WD,midsize car,M
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+3.5,6,2WD,small car,M
+5.6,8,4WD,SUV,L
+5.6,8,2WD,SUV,L
+1.8,4,2WD,station wagon,H
+1.8,4,2WD,station wagon,H
+1.8,4,2WD,station wagon,H
+1.8,4,2WD,station wagon,H
+2.5,4,2WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,2WD,pickup,L
+3.8,6,4WD,small car,L
+3.5,6,4WD,SUV,L
+3.5,6,4WD,SUV,L
+3.5,6,2WD,SUV,L
+4.0,6,4WD,SUV,L
+4.0,6,4WD,SUV,L
+4.0,6,2WD,SUV,L
+4.0,6,2WD,SUV,L
+3.5,6,2WD,minivan,M
+3.5,6,2WD,minivan,M
+3.5,6,2WD,minivan,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,2WD,SUV,H
+2.5,4,2WD,SUV,H
+2.0,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,M
+5.6,8,4WD,pickup,L
+5.6,8,2WD,pickup,L
+1.6,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+4.0,6,4WD,SUV,L
+4.0,6,4WD,SUV,L
+4.0,6,2WD,SUV,L
+4.0,6,4WD,SUV,L
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,L
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.6,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.8,6,4WD,small car,M
+3.6,6,2WD,small car,M
+3.6,6,2WD,small car,M
+3.6,6,2WD,small car,M
+3.6,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+3.8,6,2WD,small car,L
+2.9,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.0,6,4WD,SUV,M
+3.6,6,4WD,SUV,L
+4.8,8,4WD,SUV,L
+4.8,8,4WD,SUV,L
+4.8,8,4WD,SUV,L
+2.9,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.4,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.8,6,2WD,small car,M
+3.6,6,2WD,large car,M
+4.8,8,4WD,large car,L
+3.0,6,2WD,large car,H
+3.0,6,2WD,large car,H
+6.6,12,2WD,large car,L
+6.7,12,2WD,small car,L
+6.7,12,2WD,small car,L
+5.0,8,2WD,small car,L
+5.0,8,2WD,small car,L
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,M
+2.0,4,4WD,small car,M
+2.0,4,4WD,station wagon,M
+2.0,4,4WD,station wagon,M
+2.0,4,4WD,station wagon,M
+2.8,6,4WD,SUV,L
+3.0,6,4WD,SUV,L
+2.8,6,4WD,midsize car,L
+1.3,4,2WD,small car,H
+1.3,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.5,4,2WD,small car,H
+2.4,4,2WD,station wagon,M
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+1.0,3,2WD,small car,H
+1.0,3,2WD,small car,H
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,H
+2.0,4,4WD,small car,H
+2.5,4,4WD,small car,L
+2.5,4,4WD,small car,M
+2.0,4,4WD,station wagon,H
+2.0,4,4WD,station wagon,H
+2.0,4,4WD,station wagon,H
+2.0,4,4WD,station wagon,H
+2.5,4,4WD,station wagon,L
+2.5,4,4WD,midsize car,H
+3.6,6,4WD,midsize car,L
+3.6,6,4WD,midsize car,L
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+2.5,4,4WD,SUV,M
+3.6,6,4WD,SUV,L
+2.5,4,2WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,2WD,pickup,L
+2.4,4,4WD,SUV,L
+2.4,4,2WD,SUV,M
+2.4,4,2WD,SUV,M
+2.4,4,2WD,SUV,M
+2.4,4,2WD,small car,H
+2.4,4,4WD,small car,H
+2.4,4,2WD,small car,H
+2.4,4,2WD,small car,H
+2.4,4,2WD,small car,H
+2.0,4,4WD,station wagon,H
+2.0,4,4WD,station wagon,H
+2.0,4,2WD,station wagon,H
+2.0,4,4WD,station wagon,H
+2.0,4,2WD,station wagon,H
+2.0,4,2WD,small car,H
+4.0,6,4WD,SUV,L
+4.0,6,4WD,SUV,L
+4.0,6,4WD,SUV,L
+4.0,6,2WD,SUV,L
+4.0,6,2WD,SUV,L
+3.5,6,2WD,large car,M
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+3.5,6,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+2.5,4,2WD,midsize car,H
+1.8,4,2WD,small car,H
+1.8,4,2WD,small car,H
+4.0,6,4WD,SUV,L
+4.0,6,4WD,SUV,L
+1.8,4,2WD,station wagon,H
+1.8,4,2WD,station wagon,H
+2.4,4,2WD,station wagon,M
+2.4,4,2WD,station wagon,M
+1.5,4,2WD,small car,H
+1.8,4,2WD,station wagon,H
+1.8,4,2WD,station wagon,H
+2.5,4,4WD,SUV,M
+2.5,4,2WD,SUV,M
+3.5,6,2WD,SUV,M
+5.7,8,4WD,SUV,L
+2.7,4,2WD,minivan,M
+2.7,4,4WD,pickup,L
+2.7,4,2WD,pickup,M
+2.7,4,4WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,4WD,pickup,L
+4.0,6,2WD,pickup,L
+4.0,6,2WD,pickup,L
+5.7,8,4WD,pickup,L
+2.7,4,2WD,SUV,M
+2.7,4,2WD,SUV,M
+3.5,6,4WD,SUV,M
+3.5,6,2WD,SUV,M
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+1.5,4,2WD,small car,H
+4.6,8,2WD,special purpose,L
+4.6,8,2WD,special purpose,L
+4.6,8,2WD,special purpose,L
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.0,4,2WD,small car,M
+2.0,4,2WD,small car,M
+3.6,6,4WD,small car,L
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.0,4,4WD,small car,M
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.0,4,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.5,5,2WD,small car,H
+2.0,4,2WD,station wagon,H
+2.0,4,2WD,station wagon,H
+2.5,5,2WD,station wagon,H
+2.5,5,2WD,station wagon,H
+2.0,4,2WD,midsize car,H
+2.0,4,2WD,midsize car,H
+2.5,5,2WD,midsize car,H
+2.5,5,2WD,midsize car,H
+3.6,6,2WD,midsize car,M
+3.6,6,2WD,midsize car,M
+2.0,4,4WD,SUV,M
+2.0,4,2WD,SUV,M
+2.0,4,2WD,SUV,M
+3.0,6,4WD,SUV,M
+3.6,6,4WD,SUV,L
+2.5,5,2WD,small car,M
+2.5,5,2WD,small car,M
+2.5,5,2WD,small car,M
+3.0,6,4WD,small car,M
+3.0,6,4WD,midsize car,M
+3.0,6,4WD,midsize car,M
+3.2,6,2WD,midsize car,M
+3.0,6,4WD,SUV,L
+3.2,6,4WD,SUV,L
+3.2,6,4WD,SUV,L
+3.0,6,4WD,SUV,L
+3.2,6,4WD,SUV,L
+3.2,6,2WD,SUV,M
+3.2,6,2WD,SUV,L
+3.2,6,2WD,SUV,L
